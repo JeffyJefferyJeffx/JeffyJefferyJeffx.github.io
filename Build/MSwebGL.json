@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Flying",
+"productName": "Project 1",
 "dataUrl": "MSwebGL.data.unityweb",
 "wasmCodeUrl": "MSwebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "MSwebGL.wasm.framework.unityweb",
